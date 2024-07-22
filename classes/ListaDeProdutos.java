@@ -16,7 +16,7 @@ public class ListaDeProdutos {
         return lista;
     };
 
-    public void visualizarProdutoProduto(){};
+    public void visualizarProduto(){};
 
     public void pesquisarProduto(){};
 
